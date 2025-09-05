@@ -1,0 +1,89 @@
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Marcos
+Digite o email do aluno: marcos@ges.inatel.br
+Digite o curso do aluno: GES
+Aluno Marcos com matrícula GES0 cadastrado com sucesso!
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Pedro
+Digite o email do aluno: pedro@ges.inatel.br
+Digite o curso do aluno: GES
+Aluno Pedro com matrícula GES1 cadastrado com sucesso!
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Tiago
+Digite o email do aluno: tiago@gec.inatel.br
+Digite o curso do aluno: GEC
+Aluno Tiago com matrícula GEC0 cadastrado com sucesso!
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 2
+Matrícula: GES0 - Nome: Marcos - Email: marcos@ges.inatel.br - Curso: GES
+Matrícula: GES1 - Nome: Pedro - Email: pedro@ges.inatel.br - Curso: GES
+Matrícula: GEC0 - Nome: Tiago - Email: tiago@gec.inatel.br - Curso: GEC
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 3
+Digite a matrícula do aluno a ser atualizado: GEC0
+Digite o novo nome do aluno: Thiago
+Digite o novo email do aluno: thiago@gec.inatel.br
+Aluno atualizado com sucesso!
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno a ser deletado: GES0
+Aluno deletado com sucesso!
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 2
+Matrícula: GES1 - Nome: Pedro - Email: pedro@ges.inatel.br - Curso: GES
+Matrícula: GEC0 - Nome: Thiago - Email: thiago@gec.inatel.br - Curso: GEC
+
+Menu de Opções:
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Atualizar Aluno
+4 - Remover Aluno
+5 - Sair
+Escolha uma opção: 5
+Saindo do sistema da faculdade...
+
+Process finished with exit code 0
